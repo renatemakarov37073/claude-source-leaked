@@ -1,6 +1,6 @@
 {
   "name": "claude-source-leaked",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Claude Code v2.1.88 source analysis: system prompts, 87 hidden feature flags, cost optimization, architecture diagrams, undercover mode, and comparison with Cursor/Cline. No source code redistributed.",
   "main": "src/index.ts",
   "scripts": {
